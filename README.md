@@ -3,6 +3,7 @@
 This project provides an automated approach for searching for hidden genes in vertebrate genomes. The method is based on syntenic information and can be used to identify novel genetic factors involved in various biological processes. The code in this repository was developed as part of a diploma thesis project and can be used to identify hidden genes in large and complex genomes, such as those of birds and reptiles. With this automated approach, gene discovery can be accelerated and new insights can be gained into the genetic basis of complex traits and diseases in vertebrates.
 
 ![Hidden gene example](images/synteny_DUSP15.gif)
+*The gif shows an example of a hidden gene DUSP15 (red) in Abingdon island giant tortoise genome. Created with [Genomicus](https://www.genomicus.bio.ens.psl.eu).*
 
 ## Installation
 
@@ -20,6 +21,7 @@ Please follow their documentation for the installation instructions.
 ## Usage
 
 ![Workflow](images/workflow_readme.png)
+*Workflow diagram. Created with [Biorender](https://www.biorender.com).*
 
 The source code consists of five jupyter notebooks:
 - ```00_pre-download_frequently_used_genomes.ipynb```
